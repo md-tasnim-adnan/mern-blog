@@ -1,8 +1,6 @@
 > A blog called Memories App, where you can store your cherished memories
 
 
-<h1></h1>
-
 ## &nbsp; Introduction
 
  Full Stack MERN Application - from start to finish. 
@@ -10,7 +8,6 @@
  The App is called "Memories" and it is a simple social media app that allows users to login with their google account and post interesting daily events.
 
 
-<h1></h1>
 
 
 
@@ -36,12 +33,42 @@
   - Users can search memories by memories title or tags.
   - Users can delete their respective posts.
 
-<h1> </h1>
+
+
+##  &nbsp; Key Concepts
+
+- CRUD operations
+- Authentication system
+- Storing user data
+- OOP (Object Oriented Programming)
+
+##  &nbsp; Technologies
+
+> Project is created with:
+
+#### Backend
+
+- Node Js : A asynchronous event-driven JavaScript runtime, Node.js is designed to build scalable network  applications. 
+- Express : Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web applications.
+- Mongoose : Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node Js.
+- MongoDB: MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program.
+- JSON Web Tokens or JWTs : A JSON Web Token is used to send information that can be verified and trusted by means of a digital signature.
+
+#### Frontend
+
+- React JS:React JS  is a free and open-source front-end JavaScript library for building user interfaces or UI components.
+- Redux :Redux is an open-source JavaScript library for managing application state.  
+- React-Router : React Router is a  library for routing in React. It enables the navigation among views of various components in a React Application.
+- Axios : Promise based HTTP client for the browser and node.js.
+- Material UI : Material-UI is simply a library that allows us to import and use different components to create a user interface in our React Js.
+
+
 
 ## 💻 &nbsp; Setup
 
 - To run this project,  locally on your system
 - Clone or download this project
+- Open new terminal window and type
 ```
 $ cd  server 
 $ npm install (install backend dependencies)
@@ -62,68 +89,19 @@ $ npm start (for React client side development)
 
 > For Google client Id you have to visit [Google developers console](https://console.cloud.google.com/apis/dashboard?pli=1) from here generate your respective client Id 
 
-<h1></h1>
 
 
-## 👨‍💻 &nbsp; Demo
+
+##  &nbsp; Demo
 
 <p align="center">
 <p>Screenshoots of some main features</p>
-<img src=./demo_images/desktop.png>
-<p align="center">
-  <img src="./demo_images/iphone1.png" width="200" height="356">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="./demo_images/iphone2.png" width="200" height="356">
-</p>
- <br/>
- <p align="center">
-  <img src = "./demo_images/ipad.png" width="300" height="402"> 
-&nbsp; &nbsp; &nbsp; &nbsp;
- <img alt="tablet mockup 2" src="./demo_images/ipad2.png" width="300" height="402" margin="5px"/> 
-</p>
-</p>
+- Main webpage
+<img src=./images/desktop.png>
+-After logging in
+<img src=./images/after_login.png>
+-Mobile friendly and responsive desgin 
+<img src=./images/auto-resize.png>
   
 
-<h1></h1>
 
-## 💡 &nbsp; Key Concepts
-
-- CRUD operations
-- Authentication system
-- Storing user data
-- OOP (Object Oriented Programming)
-
-## 💹 &nbsp; Technologies
-
-> Project is created with:
-
-#### Backend
-
-- Node Js : A asynchronous event-driven JavaScript runtime, Node.js is designed to build scalable network  applications. 
-- Express : Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web applications.
-- Mongoose : Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node Js.
-- MongoDB: MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program.
-- JSON Web Tokens or JWTs : A JSON Web Token is used to send information that can be verified and trusted by means of a digital signature.
-
-#### Frontend
-
-- React JS:React JS  is a free and open-source front-end JavaScript library for building user interfaces or UI components.
-- Redux :Redux is an open-source JavaScript library for managing application state.  
-- React-Router : React Router is a  library for routing in React. It enables the navigation among views of various components in a React Application.
-- Axios : Promise based HTTP client for the browser and node.js.
-- Material UI : Material-UI is simply a library that allows us to import and use different components to create a user interface in our React Js.
-
-#### Alternatives to technology used
-- React Js can be replaced by others popular fronted framework like Vue,Angular,Svelte or Ember
-- Node Js can be  replaced by Deno/koa , flask/Django
-- Mongodb can be replaced by SQL type DB
-- Material UI can be replaced  by BootStrap
-
-# Author
-
-👤 &nbsp; **Atharva Yawalkar**
-
-- My website : [My website](https://atharva137.github.io/Atharva_Yawalkar/myPortfolio/)
-- Github :     [@atharva137](https://github.com/atharva137)
-- Linkedin :   [Atharva-yawalkar](https://www.linkedin.com/in/atharva-yawalkar-2416b41b2/)
-- Email :      [atharvayawalkar1377@gmail.com](mailto:atharvayawalkar1377@gmail.com)
