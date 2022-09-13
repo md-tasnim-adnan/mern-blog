@@ -64,7 +64,7 @@
 
 
 
-## 💻 &nbsp; Setup
+## &nbsp; Setup
 
 - To run this project,  locally on your system
 - Clone or download this project
